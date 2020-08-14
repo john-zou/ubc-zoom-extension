@@ -11,7 +11,7 @@ This Zoom Web Extension, when used in conjunction with the Zoom Web Client, allo
   - `(TA) Edsger Dijkstra`
 - Otherwise, users will be assigned to breakout rooms based on the presence of matching numbers in thier username and the room name. Typical examples:
   - `(00) Robert Tarjan` will be assigned to the `Lone Wolves` room, if it exists
-  - `(5) Grace Hopper` will be assigned to a `Breakout Room 5`
+  - `(5) Grace Hopper` will be assigned to `Breakout Room 5`
 - Otherwise, users will remain unassigned.
 
 ### 2. Distribute remaining users into breakout rooms based on a user-defined target room occupancy ⌛
